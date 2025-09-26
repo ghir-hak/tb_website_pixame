@@ -1,6 +1,6 @@
 import { Pixel, ChatMessage, ApiResponse, WebSocketConfig } from "../types";
 
-const API_BASE_URL = "https://your-taubyte-domain.com"; // Replace with your actual Taubyte domain
+const API_BASE_URL = "https://95xp3ddq0.blackhole.localtau"; // Replace with your actual Taubyte domain
 
 class ApiService {
   private async request<T>(
